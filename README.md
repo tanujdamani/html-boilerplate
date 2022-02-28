@@ -54,5 +54,11 @@ In order to not make the folder files visible by accident, I always prefer to up
 
 # License
 
+[GPL-3.0](LICENSE)
+
+**TL;DR**
+
 All code provided as-is. It is free to use, and does not include any maintenance or support.
 Use this at your own discretion. I am not liable for this code.
+
+[GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007](https://www.gnu.org/licenses/gpl-3.0.en.html)
